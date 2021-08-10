@@ -1,4 +1,4 @@
-### olá mundo. Meu nome é Pedro e sou back-end developer.
+### :godmode: olá mundo. Meu nome é Pedro e sou back-end developer.
 
 <!--
 **dgtyPedro/dgtyPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
