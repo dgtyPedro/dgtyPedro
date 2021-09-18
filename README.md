@@ -13,7 +13,26 @@ Esse Git serve quase como um diário da minha jornada como programador, aqui ire
 Perfil no Vintepila: https://www.vintepila.com.br/user-profile/NTI4NDMwNjU4OTU=/<br/>
 Site da minha equipe: https://phogtech.vercel.app<br/>
 Portfólio: ___ <br/>
-LinkedIn: ___ <br/> 
+LinkedIn: ___ <br/> <br/> 
+
+<div align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dgtyPedro&show_icons=true&theme=" />
+  </br> </br>
+  <code><img height= "20"src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
+</div>
+
+
+
+
+
+
+
 
 <!--
 **dgtyPedro/dgtyPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
