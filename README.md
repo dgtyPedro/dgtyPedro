@@ -11,8 +11,7 @@ Esse Git serve quase como um diário da minha jornada como programador, aqui ire
 
 ### :link: Links
 Perfil no Vintepila: https://www.vintepila.com.br/user-profile/NTI4NDMwNjU4OTU=/<br/>
-Site da minha equipe: https://phogtech.vercel.app<br/>
-LinkedIn: ___ <br/> <br/> 
+LinkedIn: https://www.linkedin.com/in/pedro-gabriel-caires-silva-144646212/ <br/> <br/> 
 
 <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dgtyPedro&show_icons=true&theme=" />
