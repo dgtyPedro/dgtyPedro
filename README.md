@@ -1,7 +1,7 @@
 # :vulcan_salute: olá mundo. Eu sou o Pedro Caires e esse é meu GitHub.
 
 ### :headphones: Sobre mim
-  Oi, meu nome é Pedro e sou estudante de informática, cursando o 3º ano do Ensino Médio no Colégio Eniac em Guarulhos. Estudo para ser (o melhor) dev Back-End, fui criado em Python e meu conhecimento varia de Java, PHP, HTML e etc. Adoro música! 
+  Oi, meu nome é Pedro e atuo como programador PHP, com Ensino Médio Completo no Colégio Eniac em Guarulhos. Estudo para ser (o melhor) dev Back-End, fui criado em Python e meu conhecimento varia de Java, PHP, HTML e etc. Adoro música! 
 
 ### :earth_americas: Experiencia 
  Juntamente aos estudos trabalho com freelances na plataforma https://www.vintepila.com.br. Sei trabalhar em equipe e já realizei projetos que iam desde SEO e Indexação de sites até sistemas MySql com integração a Google Apps Script. Adoro trabalhar com automações de processos e com Banco de Dados.
