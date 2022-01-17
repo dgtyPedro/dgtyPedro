@@ -9,7 +9,7 @@
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-color: #FFD5C2;
+  background-color: #424242;
   font-family: 'Ubuntu', sans-serif;
 }
 
@@ -17,7 +17,7 @@
   width: 450px;
   height: 450px;
   border-radius: 20px;
-  background-color: #FFF1EB;
+  background-color: #212121;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -46,10 +46,10 @@
 .monitor::before {
   content: "";
   position: absolute;
-  border-top: 2px solid #FF5404;
-  border-left: 2px solid #FF5404;
-  border-right: 2px solid #FF5404;
-  background-color: #FFAB85;
+  border-top: 2px solid #757575;
+  border-left: 2px solid #757575;
+  border-right: 2px solid #757575;
+  background-color: #424242;
   border-radius: 5px;
   top: -4%;
   bottom: -15%;
@@ -77,10 +77,8 @@
   text-align: center;
   line-height: 50px;
   position: absolute;
-  border: 2px solid #FF5404;
-  background-color: #FFF1EB;
-  background-image: url("../hellohand.svg");
-  background-size: 100px;
+  border: 2px solid #757575;
+  background-color: #212121;
   background-position: center;
   background-repeat: no-repeat;
   border-radius: 5px;
@@ -96,18 +94,18 @@
   padding-inline: 15px;
   padding-top: 10px;
   margin: auto;
-  border-left: 2px solid #FF5404;
-  border-right: 2px solid #FF5404;
-  border-bottom: 2px solid #FF5404;
-  border-top: 3px solid #FF5404;
-  background-color: #FFAB85;
+  border-left: 2px solid #757575;
+  border-right: 2px solid #757575;
+  border-bottom: 2px solid #757575;
+  border-top: 3px solid #757575;
+  background-color: #424242;
   height: 150px;
   width: 250px;
   border-radius: 10px;
 }
 
 .innerkeyboard {
-  background-color: #FF8247;
+  background-color: #616161;
   width: 100%;
   border-radius: 8px;
   margin-bottom: 10px;
@@ -145,7 +143,7 @@
   height: 8px;
   border-radius: 5px;
   margin-inline: 2px;
-  background-color: #FF5404;
+  background-color: #757575;
   -ms-flex-negative: 1;
       flex-shrink: 1;
 }
@@ -155,7 +153,7 @@
   height: 4px;
   border-radius: 20px;
   margin-inline: 2px;
-  background-color: #FF5404;
+  background-color: #757575;
 }
 
 .keys {
@@ -163,7 +161,7 @@
   height: 8px;
   border-radius: 3px;
   margin-inline: 2px;
-  background-color: #FF5404;
+  background-color: #757575;
   -ms-flex-negative: 2;
       flex-shrink: 2;
 }
@@ -173,25 +171,45 @@
   height: 8px;
   border-radius: 3px;
   margin-inline: 2px;
-  background-color: #FF5404;
+  background-color: #757575;
   -ms-flex-negative: 2;
       flex-shrink: 2;
 }
 
 .trackpad {
   margin: auto;
-  background-color: #FF8247;
+  background-color: #616161;
   width: 80px;
   border-radius: 5px;
   height: 30%;
 }
 
 .titulo {
-  color: #140600;
+  color: #FF5404;
 }
 
 .website {
   height: 100vh;
   background-color: white;
+}
+
+p {
+  color: #FF5404;
+}
+
+.website #navbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.website > div {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+
+.website li {
+  display: inline;
 }
 /*# sourceMappingURL=style.css.map */

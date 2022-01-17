@@ -1,10 +1,10 @@
-$background: #FFF1EB;
-$text:#140600 ;
-$primary: #FF5404;
-$secondary: #FF8247; 
-$third: #FF8F5C;
-$fourth: #FFAB85;
-$fifth: #FFD5C2;
+$background: #212121;
+$text:#FF5404 ;
+$primary: #757575;
+$secondary: #616161; 
+$third: #757575;
+$fourth: #424242;
+$fifth: #424242;
 
 
 .father{
@@ -74,8 +74,7 @@ $fifth: #FFD5C2;
     position: absolute;
     border: 2px solid $primary;
     background-color: $background;
-    background-image: url('../hellohand.svg');
-    background-size: 100px;
+
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 5px;
@@ -181,4 +180,21 @@ margin: 1px;
     height: 100vh;
     background-color: white;
 }
+
+p{
+    color: $text;
+}
+
+.website #navbar{
+    display: flex;
+}
+
+.website > div{
+    flex: 1;
+}
+
+.website li {
+    display: inline;
+}
+
 
