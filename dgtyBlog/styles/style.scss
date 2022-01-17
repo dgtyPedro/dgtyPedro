@@ -1,0 +1,184 @@
+$background: #FFF1EB;
+$text:#140600 ;
+$primary: #FF5404;
+$secondary: #FF8247; 
+$third: #FF8F5C;
+$fourth: #FFAB85;
+$fifth: #FFD5C2;
+
+
+.father{
+    height: 100vh;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    background-color: $fifth;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.wrapper{
+    width: 450px;
+    height: 450px;
+    border-radius: 20px;
+    background-color: $background;
+    align-items: center; 
+    justify-content: center;
+    display: flex;
+    -webkit-box-shadow: 0px 0px 24px -6px #000000; 
+    box-shadow: 0px 0px 24px -6px #000000;
+}
+
+.notebook{
+    zoom: 110%;
+    
+}
+
+.monitor{
+  margin: auto;
+  width: 240px;     
+  height: 85px; 
+  position: relative;
+  padding: 5px;
+}
+
+.monitor::before{
+    content: "";
+    position: absolute;
+    border-top: 2px solid $primary;
+    border-left: 2px solid $primary;
+    border-right: 2px solid $primary;
+    background-color: $fourth;
+    border-radius: 5px;
+    top: -4%; bottom: -15%; left: -3%; right: -3%;  
+    -webkit-transform: perspective(50em) rotateX(-30deg);
+    transform: perspective(20em) rotateX(-30deg);
+}
+
+.montext{
+    -webkit-transform: perspective(50em) rotateX(-30deg);
+    transform: perspective(20em) rotateX(-30deg);
+}
+
+.tela{
+  margin: auto;
+  width: 100%;     
+  height: 100%; 
+  position: relative;
+  padding: 5px;
+}
+
+.tela::before{
+    content: '';
+    text-align: center;
+    line-height: 50px;
+    position: absolute;
+    border: 2px solid $primary;
+    background-color: $background;
+    background-image: url('../hellohand.svg');
+    background-size: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    
+    top: -4%; bottom: -15%; left: -3%; right: -3%;
+    
+    
+  
+    -webkit-transform: perspective(50em) rotateX(-30deg);
+    transform: perspective(20em) rotateX(-30deg);
+}
+
+.keyboard{
+    padding-inline: 15px;
+    padding-top: 10px;
+    margin: auto;
+    border-left: 2px solid $primary;
+    border-right: 2px solid $primary;
+    border-bottom: 2px solid $primary;
+    border-top: 3px solid $primary;
+    background-color: $fourth;
+    height: 150px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+.innerkeyboard{
+    background-color: $secondary;
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    height: fit-content;
+    padding: 8px;
+}
+
+.teclas{
+    display: flex;
+}
+
+.teclas > div{
+    flex: 1 ;
+    margin: 1px;
+}
+
+.spacerow{
+    display: flex;
+}
+
+.spacerow > div {
+margin: 1px;
+}
+
+.spacebar{
+    width: 100px;
+    height: 8px;
+    border-radius: 5px;
+    margin-inline: 2px;
+    background-color: $primary;
+    flex-shrink: 1;
+}
+
+.f12s{
+    width: 1px!important;
+    height: 4px;
+    border-radius: 20px;
+    margin-inline: 2px;
+    background-color: $primary;
+}
+
+.keys{
+    width: 10px;
+    height: 8px;
+    border-radius: 3px;
+    margin-inline: 2px;
+    background-color: $primary;
+    flex-shrink: 2;
+
+}
+
+.spacekeys{
+    width: 10px;
+    height: 8px;
+    border-radius: 3px;
+    margin-inline: 2px;
+    background-color: $primary;
+    flex-shrink: 2;
+
+}
+
+.trackpad{
+    margin: auto;
+    background-color: $secondary;
+    width: 80px;
+    border-radius: 5px;
+    height: 30%;
+}
+
+.titulo{
+    color: $text;
+}
+
+.website{
+    height: 100vh;
+    background-color: white;
+}
+
