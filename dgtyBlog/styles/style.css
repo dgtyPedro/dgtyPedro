@@ -188,28 +188,150 @@
   color: #FF5404;
 }
 
-.website {
-  height: 100vh;
-  background-color: white;
-}
-
 p {
   color: #FF5404;
 }
 
-.website #navbar {
+.website {
+  height: 100vh;
+  background-color: #141414;
+  color: #F5F5F5;
+  padding: 2%;
+}
+
+.container {
+  margin: auto;
+  width: 70vw;
+}
+
+.container #navbar {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  font-size: 20px;
+  font-weight: bold;
 }
 
-.website > div {
+.container #navbar > div {
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
 }
 
-.website li {
-  display: inline;
+.navitems2 {
+  text-align: end;
+}
+
+a {
+  margin-inline: 1vw;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+@-webkit-keyframes hrcolor {
+  0% {
+    border: 2px solid #01545A;
+    background-color: #01545A;
+  }
+  10% {
+    border: 2px solid #03C383;
+    background-color: #03C383;
+  }
+  20% {
+    border: 2px solid #FBBF45;
+    background-color: #FBBF45;
+  }
+  30% {
+    border: 2px solid #EF6A32;
+    background-color: #EF6A32;
+  }
+  40% {
+    border: 2px solid #ED0345;
+    background-color: #ED0345;
+  }
+  50% {
+    border: 2px solid #A12A5E;
+    background-color: #A12A5E;
+  }
+  60% {
+    border: 2px solid #ED0345;
+    background-color: #ED0345;
+  }
+  70% {
+    border: 2px solid #EF6A32;
+    background-color: #EF6A32;
+  }
+  80% {
+    border: 2px solid #FBBF45;
+    background-color: #FBBF45;
+  }
+  90% {
+    border: 2px solid #03C383;
+    background-color: #03C383;
+  }
+  100% {
+    border: 2px solid #01545A;
+    background-color: #01545A;
+  }
+}
+
+@keyframes hrcolor {
+  0% {
+    border: 2px solid #01545A;
+    background-color: #01545A;
+  }
+  10% {
+    border: 2px solid #03C383;
+    background-color: #03C383;
+  }
+  20% {
+    border: 2px solid #FBBF45;
+    background-color: #FBBF45;
+  }
+  30% {
+    border: 2px solid #EF6A32;
+    background-color: #EF6A32;
+  }
+  40% {
+    border: 2px solid #ED0345;
+    background-color: #ED0345;
+  }
+  50% {
+    border: 2px solid #A12A5E;
+    background-color: #A12A5E;
+  }
+  60% {
+    border: 2px solid #ED0345;
+    background-color: #ED0345;
+  }
+  70% {
+    border: 2px solid #EF6A32;
+    background-color: #EF6A32;
+  }
+  80% {
+    border: 2px solid #FBBF45;
+    background-color: #FBBF45;
+  }
+  90% {
+    border: 2px solid #03C383;
+    background-color: #03C383;
+  }
+  100% {
+    border: 2px solid #01545A;
+    background-color: #01545A;
+  }
+}
+
+hr {
+  -webkit-animation-name: hrcolor;
+          animation-name: hrcolor;
+  -webkit-animation-duration: 10s;
+          animation-duration: 10s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  opacity: 0.5;
+  border-radius: 10px;
 }
 /*# sourceMappingURL=style.css.map */

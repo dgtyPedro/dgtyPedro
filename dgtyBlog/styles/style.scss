@@ -1,5 +1,7 @@
 $background: #212121;
+$black : #141414;
 $text:#FF5404 ;
+$text2: #F5F5F5;
 $primary: #757575;
 $secondary: #616161; 
 $third: #757575;
@@ -176,25 +178,69 @@ margin: 1px;
     color: $text;
 }
 
-.website{
-    height: 100vh;
-    background-color: white;
-}
-
 p{
     color: $text;
 }
 
-.website #navbar{
+.website{
+    height: 100vh;
+    background-color: $black;
+    color: $text2;
+    padding: 2%;
+}
+
+.container{
+    margin: auto;
+    width: 70vw;
+}
+
+.container #navbar{
     display: flex;
+    font-size: 20px;
+    font-weight: bold;
 }
 
-.website > div{
-    flex: 1;
+.container #navbar > div{
+    flex: 1;     
 }
 
-.website li {
-    display: inline;
+.navitems2{
+    text-align: end; 
 }
+
+a{
+    margin-inline: 1vw;
+}
+
+h2{
+    font-size: 50px;
+}
+
+$border: 2px solid;
+
+@keyframes hrcolor {
+    0%   {border: $border #01545A; background-color: #01545A;}
+    10%  {border: $border #03C383; background-color: #03C383;}
+    20%  {border: $border #FBBF45; background-color: #FBBF45;}
+    30% {border: $border #EF6A32; background-color: #EF6A32;}
+    40% {border: $border #ED0345; background-color: #ED0345;}
+    50% {border: $border #A12A5E; background-color: #A12A5E;}
+    60% {border: $border #ED0345; background-color: #ED0345;}
+    70% {border: $border #EF6A32; background-color: #EF6A32;}
+    80% {border: $border #FBBF45; background-color: #FBBF45;}
+    90% {border: $border #03C383; background-color: #03C383;}
+    100% {border: $border #01545A; background-color: #01545A;}
+}
+
+hr{
+    animation-name: hrcolor;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    opacity: 0.5;
+    border-radius: 10px;
+
+}
+
+
 
 
