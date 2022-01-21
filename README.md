@@ -1,10 +1,9 @@
 # :vulcan_salute: olá mundo. Eu sou o Pedro Caires e esse é meu GitHub.
 
 ### :headphones: Sobre mim
-  Oi, meu nome é Pedro e atuo como programador PHP, com Ensino Médio Completo Integrado ao Técnico de Informático no Colégio Eniac em Guarulhos. Estudo para ser (o melhor) dev Back-End, fui criado em Python e meu conhecimento varia de Java, PHP, HTML e etc. Adoro música! 
-
+  Oi, meu nome é Pedro e atuo como programador na empresa I'm Code, empresa de soluções tecnologicas derivada do grupo I'm Labs. Formado no Ensino Técnico de Informática do Colégio Eniac acredito que não há nada que eu não seja capaz de fazer, fui criado em Python e PHP porém trabalho atualmente majoritariamente com Javascript. 
 ### :earth_americas: Experiencia 
- Juntamente aos estudos trabalho com freelances na plataforma https://www.vintepila.com.br. Sei trabalhar em equipe e já realizei projetos que iam desde SEO e Indexação de sites até sistemas MySql com integração a Google Apps Script. Adoro trabalhar com automações de processos e com Banco de Dados.
+ Juntamente aos estudos trabalhei inicialmente com freelances na plataforma <a href="https://www.vintepila.com.br">Vintepila</a>. Atualmente atuo na <a href="https://www.behance.net/imlabstecnologia?tracking_source=search_projects_recommended%7Cirmãs%20grávidas">I'm Labs</a> onde sou o cabeça da equipe de tecnologia, já trabalhei com ecommerces, sistemas institucionais e aplicativos. 
 
 ### :electron:  Sobre o Git 
 Esse Git serve quase como um diário da minha jornada como programador, aqui irei postar meus projetos pessoais, meus trabalhos como freelancer e todos os meus estudos.
@@ -14,7 +13,7 @@ Perfil no Vintepila: https://www.vintepila.com.br/user-profile/NTI4NDMwNjU4OTU=/
 LinkedIn: https://www.linkedin.com/in/pedro-gabriel-caires-silva-144646212/ <br/> <br/> 
 
 <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dgtyPedro&show_icons=true&theme=" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgtyPedro&show_icons=true&theme=" />
   </br> </br>
   <code><img height= "20"src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
