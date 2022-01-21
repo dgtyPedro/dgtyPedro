@@ -1,7 +1,6 @@
 $background: #212121;
 $black : #141414;
-$text:#FF5404 ;
-$text2: #F5F5F5;
+$text:#F5F5F5 ;
 $primary: #757575;
 $secondary: #616161; 
 $third: #757575;
@@ -185,7 +184,7 @@ p{
 .website{
     height: 100vh;
     background-color: $black;
-    color: $text2;
+    color: $text;
     padding: 2%;
 }
 
@@ -210,6 +209,12 @@ p{
 
 a{
     margin-inline: 1vw;
+    text-decoration: none;
+    color: $text;
+}
+
+a:hover{
+    color: #EF6A32;
 }
 
 h2{

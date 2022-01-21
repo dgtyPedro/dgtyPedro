@@ -185,11 +185,11 @@
 }
 
 .titulo {
-  color: #FF5404;
+  color: #F5F5F5;
 }
 
 p {
-  color: #FF5404;
+  color: #F5F5F5;
 }
 
 .website {
@@ -224,6 +224,12 @@ p {
 
 a {
   margin-inline: 1vw;
+  text-decoration: none;
+  color: #F5F5F5;
+}
+
+a:hover {
+  color: #EF6A32;
 }
 
 h2 {
