@@ -4,7 +4,7 @@ color: #F5F5F5;
 
 .website {
 height: 100vh;
-background-color: #141414;
+background-color: #060606;
 color: #F5F5F5;
 padding: 2%;
 }
@@ -140,7 +140,7 @@ font-size: 50px;
 }
 }
 
-hr {
+.customhr {
 -webkit-animation-name: hrcolor;
         animation-name: hrcolor;
 -webkit-animation-duration: 10s;

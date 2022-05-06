@@ -1,7 +1,7 @@
 @extends('index')
 @section('title')
-Post 2, Eu sou o melhor
+Post 1, Eu sou lindo, lindo demais
 @endsection
 @section('content')
-Na minha opiniao, eu sou o melhor
+Pai, tenho fome
 @endsection
