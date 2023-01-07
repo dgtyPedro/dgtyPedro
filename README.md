@@ -1,16 +1,18 @@
 # :vulcan_salute: olá mundo. Eu sou o Pedro Caires e esse é meu GitHub.
 
 ### :headphones: Sobre mim
-  Oi, meu nome é Pedro e atuo como programador na empresa I'm Code, empresa de soluções tecnologicas derivada do grupo I'm Labs. Formado no Ensino Técnico de Informática do Colégio Eniac acredito que não há nada que eu não seja capaz de fazer, fui criado em Python e PHP porém trabalho atualmente majoritariamente com Javascript. 
-### :earth_americas: Experiencia 
- Juntamente aos estudos trabalhei inicialmente com freelances na plataforma <a href="https://www.vintepila.com.br">Vintepila</a>. Atualmente atuo na <a href="https://www.behance.net/imlabstecnologia?tracking_source=search_projects_recommended%7Cirmãs%20grávidas">I'm Labs</a> onde sou o cabeça da equipe de tecnologia, já trabalhei com ecommerces, sistemas institucionais e aplicativos. 
+  Oi, meu nome é Pedro e atuo como programador na Simbiose Social, empresa social tech que usa inteligência de dados para conectar empresas e projetos sociais que utilizam leis de incentivo. Formado no Ensino Técnico de Informática do Colégio Eniac acredito que não há nada que eu não seja capaz de fazer, tive fundamentos em Python porém trabalho atualmente majoritariamente com Javascript (React.js) e PHP (Laravel). 
 
 ### :electron:  Sobre o Git 
 Esse Git serve quase como um diário da minha jornada como programador, aqui irei postar meus projetos pessoais, meus trabalhos como freelancer e todos os meus estudos.
 
 ### :link: Links
-Perfil no Vintepila: https://www.vintepila.com.br/user-profile/NTI4NDMwNjU4OTU=/<br/>
-LinkedIn: https://www.linkedin.com/in/pedro-gabriel-caires-silva-144646212/ <br/> <br/> 
+LinkedIn: https://www.linkedin.com/in/pedro-gabriel-caires-silva-144646212/ <br/>
+Blog: https://pedro-caires.herokuapp.com <br/>
+Dumpi-fy: https://dumpi-fy.herokuapp.com <br/>
+Volumes & Markings: https://play.google.com/store/apps/details?id=com.dooguitryx.volumesandmarkings <br/>
+DB Tester: http://database-conn-tester.s3-website-sa-east-1.amazonaws.com <br/>
+<br/><br/>
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dgtyPedro&show_icons=true&theme=" />
