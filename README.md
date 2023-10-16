@@ -12,4 +12,4 @@ Passionate about:
 - Musical Production
 - Homebrew
 
-[https://github.com/dgtyPedro](https://www.linkedin.com/in/pedro-gabriel-caires/)https://www.linkedin.com/in/pedro-gabriel-caires/
+https://www.linkedin.com/in/pedro-gabriel-caires/
