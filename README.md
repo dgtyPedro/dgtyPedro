@@ -1,7 +1,7 @@
 I am a developer excited about open source and dedicated to doing my best, always. 
 
 Passionate about:
-- Symfony (PHP as a whole)
+- Laravel (PHP as a whole)
 - Domain Driven Design
 - Devops
 - Typescript
