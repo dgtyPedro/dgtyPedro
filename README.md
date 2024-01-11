@@ -6,7 +6,7 @@ Passionate about:
 - Devops
 - Typescript
 - Golang
-- Rust
+- Node.js
 - C#
 - Data Structure
 - Musical Production
